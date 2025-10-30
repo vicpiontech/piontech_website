@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "export": "next export",
-    "deploy": "next build && next export && touch out/.nojekyll && echo 'your-domain.com' > out/CNAME && gh-pages -d out -t true"
+    "predeploy": "next build","deploy": "gh-pages -d out -t true"
   },
   "dependencies": {
     "next": "16.0.1",

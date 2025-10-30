@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  basePath: '/piontech_website',
+  assetPrefix: '/piontech_website/',
 };
 
 export default nextConfig;

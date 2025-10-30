@@ -1,0 +1,15 @@
+[00:00:01.281] Server  LOG      ✓ Ready in 916ms
+[00:17:38.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:37.102] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.107] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.110] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.114] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.117] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.127] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.130] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.136] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.139] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.147] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.151] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.164] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'
+[00:21:37.167] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Piontech\piontech-coming-soon\src\app'

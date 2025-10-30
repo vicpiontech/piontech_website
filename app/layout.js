@@ -1,8 +1,15 @@
+import './globals.css';
+
+export const metadata = {
+  title: 'Piontech Systems - Coming Soon',
+  description: 'Revolutionizing Technology Solutions',
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <main style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        <main>
           {children}
         </main>
       </body>
